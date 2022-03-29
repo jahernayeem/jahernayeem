@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jahernayeem
 - 👀 I’m interested in Bioinformatics, System Biology and Machine Learning
 - 🌱 I’m currently learning Python and R
-- 💞️ I’m looking to collaborate on Bioinformatics specially Genomics, Transcriptomics,RNA Metagenomics and NGS data analysis.
+- 💞️ I’m looking to collaborate on Bioinformatics specially Genomics, Transcriptomics,RNA Metagenomics, Shotgut Metagenomics and NGS data analysis.
 - 📫 How to reach me jahernayeem@gmail.com
 
 <!---
